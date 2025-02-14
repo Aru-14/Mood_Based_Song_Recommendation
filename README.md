@@ -27,7 +27,7 @@ pip install flask pandas textblob
 
 ### **2️⃣ Run the Flask App**
 ```bash
-python app.py
+python app.py #here I've used app(1).py
 ```
 
 ### **3️⃣ Open in Browser**
@@ -44,7 +44,7 @@ Mood-Song-Recommender/
 │── templates/
 │   └── index.html  # Frontend UI
 │── songvsmood.csv  # Dataset containing songs and moods
-│── app.py          # Flask backend
+│── app(1).py          # Flask backend
 │── README.md       # Project documentation
 ```
 

@@ -1,5 +1,5 @@
 # Mood_Based_Song_Recommendation
-# 🎵 Mood-Based Song Recommender
+
 
 ## 📌 Project Overview
 The **Mood-Based Song Recommender** is a Flask web application that suggests songs based on the user's mood. The application:

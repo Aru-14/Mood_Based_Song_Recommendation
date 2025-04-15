@@ -44,7 +44,7 @@ Mood-Song-Recommender/
 │── templates/
 │   └── index.html  # Frontend UI
 │── songvsmood.csv  # Dataset containing songs and moods
-│── app(1).py          # Flask backend
+│── app.py          # Flask backend
 │── README.md       # Project documentation
 ```
 
